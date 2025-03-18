@@ -3,6 +3,6 @@
       "env": {
         "NODE_ENV": "production"
       },
-      "installCommand": "pnpm install --no-optional"
+      "installCommand": "pnpm install --ignore-scripts --no-optional"
     }
   }
